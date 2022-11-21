@@ -20,7 +20,7 @@ public class CoupangProductUrlData {
 	/** 제품코드 */
 	private String productCode = "";
 	/** 리뷰 페이지번호 */
-	int pageNo = 0;
+	private int pageNo = 0;
 	
 	/**
 	 * Initialize
